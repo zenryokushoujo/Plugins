@@ -1,0 +1,37 @@
+﻿
+// -----------------------------------------------------------------------------------------------
+//  Names
+// -----------------------------------------------------------------------------------------------
+
+// Character presets
+ハニーサンプルキャラクター① = Sample character
+ハニーサンプルキャラクター⑩ = Pink hair small breasts
+ハニーサンプルキャラクター⑪ = Student B
+ハニーサンプルキャラクター⑫ = Ganguro
+ハニーサンプルキャラクター⑬ = Student C
+ハニーサンプルキャラクター⑭ = Short hair, tall with glasses
+ハニーサンプルキャラクター⑮ = Short Asian blonde small breasts
+ハニーサンプルキャラクター⑯ = Tall caucasian black hair
+ハニーサンプルキャラクター⑰ = Caucasian blonde
+ハニーサンプルキャラクター⑱ = Brown skin black hair
+ハニーサンプルキャラクター② = Student A
+ハニーサンプルキャラクター③ = Caucasian blonde
+ハニーサンプルキャラクター④ = Office lady
+ハニーサンプルキャラクター⑤ = House wife
+ハニーサンプルキャラクター⑥ = Sexy nurse
+ハニーサンプルキャラクター⑦ = Caucasian blonde
+ハニーサンプルキャラクター⑧ = Caucasian maid
+ハニーサンプルキャラクター⑨ = Sexy student with tan lines
+シトリー = Sitri
+花魁 = Oiran
+俺 = Me
+
+// Sample Character male
+カスタム01 = Custom 01
+カスタム02 = Custom 02
+カスタム03 = Custom 03
+カスタム04 = Custom 04
+カスタム05 = Custom 05
+カスタム06 = Custom 06
+カスタム07 = Custom 07
+カスタム08 = Custom 08

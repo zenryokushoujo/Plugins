@@ -1,0 +1,4 @@
+﻿Sexyビーチ プレミアムリゾート 及び ハニーセレクトのキャラデータを\nハニーセレクト パーティー用のキャラデータに変換します。 = We convert character data of Sexy Beach Premium Resort and Honey Select into character data for \n Honey Select Party.
+※ インストールフォルダ/UserData/chara/ に入っていた以前のデータは/UserData/chara_old/ に移動します。 = * The previous data in the installation folder /UserData/chara/ will be moved to /UserData/chara_old/.
+※ ファイル数が多いと時間がかかる可能性があります。 = * It may take time depending on the amount of files.
+何かキーを押して下さい = Please press any key

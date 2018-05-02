@@ -1,0 +1,232 @@
+﻿//Add
+外部画像 = Background
+
+//Option
+スナップ移動幅 = Snap Movement Width
+
+//Map Editor
+Ｙ回転 = Y Rotation
+X = X
+Y = Y
+Z = Z
+位置 = Position
+Ｚ回転 = Z Rotation
+平行移動 = Parallel Move
+Ｘ回転 = X Rotation
+上下移動 = Vertical Move
+
+//Animation - F
+バトル = Battle
+
+//Battle - F
+格闘A = Fists A
+格闘B = Fists B
+気弾 = Magic
+片手剣 = One-Handed Sword
+盾と剣 = Shield and Sword
+小太刀二刀 = Dual Kodachi
+拳銃 = Handgun
+二丁拳銃 = Dual Handgun
+投擲 = Kunai
+魔法杖 = Magic Wand
+魔法本 = Magic Book
+両手剣 = Two-Handed Sword
+棒・槍 = Bo / Spear
+槌・鎌 = Hammer / Scythe
+ライフル = Rifle
+弓矢 = Bow
+攻撃１ = Attack 1
+攻撃２ = Attack 2
+攻撃３ = Attack 3
+攻撃４ = Attack 4
+防御 = Defense
+倒れる = Knockback
+
+//Presets - F
+カットイン = Cut In
+格闘A１ = Fists A1
+格闘A２ = Fists A2
+格闘A３ = Fists A3
+格闘B１ = Fists B1
+格闘B２ = Fists B2
+格闘B３ = Fists B3
+気弾１ = Magic 1
+気弾２ = Magic 2
+気弾３ = Magic 3
+片手剣１ = One-Handed Sword 1
+片手剣２ = One-Handed Sword 2
+片手剣３ = One-Handed Sword 3
+盾と剣１ = Shield and Sword 1
+盾と剣２ = Shield and Sword 2
+盾と剣３ = Shield and Sword 3
+小太刀１ = Kodachi 1
+小太刀２ = Kodachi 2
+小太刀３ = Kodachi 3
+小太刀二刀１ = Dual Kodachi 1
+小太刀二刀２ = Dual Kodachi 2
+小太刀二刀３ = Dual Kodachi 3
+拳銃１ = Handgun 1
+拳銃２ = Handgun 2
+拳銃３ = Handgun 3
+二丁拳銃１ = Dual Handgun 1
+二丁拳銃２ = Dual Handgun 2
+二丁拳銃３ = Dual Handgun 3
+投擲１ = Kunai 1
+投擲２ = Kunai 2
+投擲３ = Kunai 3
+魔法杖１ = Magic Wand 1
+魔法杖２ = Magic Wand 2
+魔法杖３ = Magic Wand 3
+魔法本１ = Magic Book 1
+魔法本２ = Magic Book 2
+魔法本３ = Magic Book 3
+両手剣１ = Two-Handed Sword 1
+両手剣２ = Two-Handed Sword 2
+両手剣３ = Two-Handed Sword 3
+棒・槍１ = Bo / Spear 1
+棒・槍２ = Bo / Spear 2
+棒・槍３ = Bo / Spear 3
+槌・鎌１ = Hammer / Scythe 1
+槌・鎌２ = Hammer / Scythe 2
+槌・鎌３ = Hammer / Scythe 3
+ライフル１ = Rifle 1
+ライフル２ = Rifle 2
+ライフル３ = Rifle 3
+弓矢１ = Bow 1
+弓矢２ = Bow 2
+弓矢３ = Bow 3
+
+
+// H Special
+触手 = Tentacle
+
+//State - M
+男根 = Penis
+
+//General Purpose - M
+基本 = Basic
+立ち話し = Talking
+腕組 = Fold Arms
+野次馬 = Trainee
+皿を磨く = Dish Washing
+会釈 = Bow With Dish
+酔っ払い = Drunk
+あぐら１ = Sitting Cross-Legged 1
+あぐら２ = Sitting Cross-Legged 2
+しゃがみ１ = Squat Down 1
+しゃがみ２ = Squat Down 2
+睡眠３ = Sleep 3
+睡眠４ = Sleep 4
+一礼 = Bow
+遠くを見る = Looking Far Away
+否定 = Denial
+気合 = Fired Up
+ボクシング = Boxing
+釣り = Fishing
+
+// H Multiple - F
+男２愛撫 = Caress (2M)
+男２フェラ = Blowjob (2M)
+男２バック = Spit Roast (2M)
+男２騎乗位 = Cowgirl (2M)
+女２A愛撫 = Caress A (2G)
+女２B愛撫 = Caress B (2G)
+女２A手コキ = Handjob A (2G)
+女２B手コキ = Handjob B (2G)
+女２A素股 = Frottage A (2G)
+女２B素股 = Frottage B (2G)
+女２A騎乗位 = Cowgirl A (2G)
+女２B騎乗位 = Cowgirl B (2G)
+レズA愛撫 = Lesbian Caress A
+レズB愛撫 = Lesbian Caress B
+レズAクンニ = Lesbian Cunnilingus A
+レズBクンニ = Lesbian Cunnilingus B
+
+//H Multiple - M
+男２A愛撫 = Caress A (2M)
+男２B愛撫 = Caress B (2M)
+男２Aフェラ = Blowjob A (2M)
+男２Bフェラ = Blowjob B (2M)
+男２Aバック = Spit Roast A (2M)
+男２Bバック = Spit Roast B (2M)
+男２A騎乗位 = Cowgirl A (2M)
+男２B騎乗位 = Cowgirl B (2M)
+女２愛撫 = Caress (2G)
+女２手コキ = Handjob (2G)
+女２素股 = Frottage (2G)
+女２騎乗位 = Cowgirl (2G)
+
+//H Addition 1
+股間こすり = Riding Arm Standing
+男受けクンニ = Face Rubbing
+寝オナニー = Sleep Masturbation
+机上バック = Desk Back
+恥まんぐり = Shame Prying
+診察男受け = A Consultation
+ソープH１ = Soap H 1
+ソープH２ = Soap H 2
+プールH = Pool H
+対面座位 = Face to Face Sitting
+巨根H = Big Dick H
+
+// Animation States
+待機１ = Wait 1
+アクション１ = Action 1
+会話１ = Conversation 1
+待機２ = Wait 2
+会話２ = Conversation 2
+イメージ = Image
+待機 = Wait
+アクション２ = Action 2
+会話 = Conversation
+ループ = Loop
+事後待機 = Standby Afterwards
+クリックピストン = Quick Piston
+竿こすり = Rod Scrubbing
+先いじり = Tapping
+裏こすり = Rubbing Back
+玉いじり = Tama-ijiri
+
+脱力絶頂事後 = After Weakness Caught
+
+//Character
+なぎさ = Nagisa
+相良美弥子 = Miyako Sagara
+泉崎香奈 = Izumizaki Kana
+霧生茜 = Mistress Akane
+氷室麗華 = Himuro Reika
+笠原なつめ = Nasugi Kasahara
+朧 = Dazzling
+矢吹遼子 = Ryoko Yabuki
+藤堂静香 = Shizuka Todo
+木梨柚帆 = Kurosan Yuzo
+鬼越真紀 = Maki Oniuchi
+的子 = Slave
+
+//3d Sound Effect
+喘ぎ明るい = Pant (Cheerful)
+フェラ明るい = Blowjob (Cheerful)
+喘ぎツンデレ = Pant (Tsundere)
+フェラツンデレ = Blowjob (Tsundere)
+喘ぎおっとり = Pant (Gentle)
+フェラおっとり = Blowjob (Gentle)
+喘ぎ無口 = Pant (Withdrawn)
+フェラ無口 = Blowjob (Withdrawn)
+喘ぎヤンデレ = Pant (Yandere)
+フェラヤンデレ = Blowjob (Yandere)
+喘ぎ大雑把 = Pant (Easygoing)
+フェラ大雑把 = Blowjob (Easygoing)
+喘ぎ生真面目 = Pant (Strict)
+フェラ生真面目 = Blowjob (Strict)
+喘ぎボーイッシュ = Pant (Boyish)
+フェラボーイッシュ = Blowjob (Boyish)
+喘ぎ元気 = Pant (Energetic)
+フェラ元気 = Blowjob (Energetic)
+喘ぎ几帳面 = Pant (Diligent)
+フェラ几帳面 = Blowjob (Diligent)
+喘ぎ活発 = Pant (Active)
+フェラ活発 = Blowjob (Active)
+喘ぎ誠実 = Pant (Sincere)
+フェラ誠実 = Blowjob (Sincere)
+喘ぎ妖艶 = Pant (Bewitching)
+フェラ妖艶 = Blowjob (Bewitching)

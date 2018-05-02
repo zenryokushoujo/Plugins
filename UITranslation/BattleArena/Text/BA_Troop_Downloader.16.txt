@@ -1,0 +1,11 @@
+﻿メインメニュー = Main Menu
+削除 = Delete
+※１~４GBのハードディスクの空き容量が必要です = ※ 1 to 4 GB of free hard disk space is required
+(一度見た部隊画像の表示が早くなります) =  (Image will load faster after viewing)
+アップロード = Upload
+キャッシュを有効にする = Enable caching
+キャッシュを削除 = Delete cache
+ダウンロードする = Download
+データを取得しています = Data is loading
+ネットワークの接続に失敗しました = Network connection failed
+

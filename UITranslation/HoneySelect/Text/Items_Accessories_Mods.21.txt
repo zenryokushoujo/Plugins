@@ -1,0 +1,297 @@
+﻿// -----------------------------------------------------------------------------------------------
+// Accessories Mods
+// -----------------------------------------------------------------------------------------------
+
+//Head
+DW6甄姬头饰 = Zhenji's Headpiece (DW6)
+ベレー帽（色変え可能） = Beret (CC)
+ベレー帽・斜（色変え可能） = Beret (Diagonal) (CC)
+ウシャンカ（閉） = Ushanka (Open)
+ウシャンカ（開） = Ushanka (Closed)
+野球メット(Carp) = Baseball Cap (Carp)
+farウサ耳 = Far Rabbit Ears
+Valkyrie兜 = Valkyrie Helmet
+SFXメット = SFX Helmet
+ボンボン = Bonbon
+フラワーカチューシャ = Flower Headband
+金のバレッタ = Gold Valetta
+桜の髪飾り = Cherry Blossom Hair Ornament
+うさぎ = Rabbit
+ベネチアンマスク = Venetian Mask
+シュシュ = Scrunchie
+飾り付きバレッタ = Decorative Valetta
+トマトヘアピン = Tomato Hairpin
+花冠 = Flower Crown (Garland)
+ジオン公国 = Principality of Zeon Crest
+[MOD]_ポンポンA = PomPom A
+[MOD]_ポンポンB = PomPom B
+ザク２頭 = Zaku 2 Head
+ザク２アンテナ = Zaku 2 Antenna
+耳あて = Earmuffs
+二種軍装正帽 = Admiral Cap
+牛カチューシャ（タグ無） = Cow Ears Headband (No Tag)
+牛カチューシャ（タグ有） = Cow Ears Headband (Tag)
+[s_k] ナース帽子(色変可) = [s_k] Nurse Hat (CC)
+魔女の帽子（カラー） = Witch Hat (CC)
+帽子A = Hat A
+ベレー帽A = Beret A
+ベレー帽B = Beret B
+ニット帽 = Knit Cap
+ハンチング帽 = Hunting Cap
+シャンプーハット = Shampoo Cap
+モヒカン = Mohawk
+ドクロ = Skull
+エクステ_A = Hair Extension A
+エクステ_B = Hair Extension B
+豚頭改A（2色） = Pig Head A (2CC)
+豚頭改B（2色） = Pig Head B (2CC)
+豚頭改C（2色） = Pig Head C (2CC)
+穴埋め用メット髪A = Met Hair For Filling A
+穴埋め用メット髪B = Met Hair For Filling B
+穴埋め用メット髪C = Met Hair For Filling C
+制服ベレー帽 = Uniform Beret
+fan_舞娘（头饰） = fan_Dancer (Headdress)
+fan_毛线织帽（灰熊） = fan_Woolen Hat (Bear)
+fan_毛线织帽（黑猫） = fan_Woolen Hat (Black Cat)
+fan_毛线织帽（青蛙） = fan_Woolen Hat (Frog)
+fan_毛线织帽（熊猫） = fan_Woolen Hat (Panda)
+fan_毛线织帽（白猫） = fan_Woolen Hat (White Cat)
+fan_斜毛线织帽（老虎） = fan_Knit Cap (Tiger)
+fan_斜毛线织帽（熊猫） = fan_Knit Cap (Panda)
+フード = Hood
+套装-100020（貂蝉-发簪） = Set-100020 (Diao Chan - Hairpin)
+
+//Ears
+
+
+//Glasses
+スポーツグラス クリアレッド(色変え可能) = Sports Glasses Clear Red (CC)
+スポーツグラス スモーク(色変え可能) = Sports Glasses Smokey (CC)
+スクエアA(不透過） = Square Glasses A (Opaque)
+スクエアB(不透過) = Square Glasses A (Opaque)
+オーバルA(不透過) = Oval Glasses A (Opaque)
+オーバルB(不透過) = Oval Glasses B (Opaque)
+ブロウ(不透過) = Blow Glasses (Opaque)
+ウェリントン(不透過) = Wellington (Opaque)
+メタルフレーム(不透過) = Metal Frame (Opaque)
+アンダーリム(不透過) = Under Rim Glasses (Opaque)
+ゴーグル（不透過） = Goggles (Opaque)
+
+//Face
+涙・鼻水 = Tears / Runny Nose
+泡（口用） = Foam (For Mouth)
+泡（単体） = Foam (Spherical)
+涎 = Drool
+[s_k] 口にガムテープ = Gum Tape (Mouth)
+[s_k] マスク = Mask
+ラバーマスク = Rubber Mask
+マスクA = Mask A
+マスクB = Mask B
+マスクC = Mask C
+目隠し = Blindfold
+ピアスA = Earrings
+ピアスB = Earrings
+ピアスC = Earrings
+安全ピンA = Safety Pin
+安全ピンB = Safety Pin
+名札 = Nameplate
+腰みのコンドーム = Condom Hula Dress
+触手01 = Tentacle 01
+触手02 = Tentacle 02
+触手03 = Tentacle 03
+触手04 = Tentacle 04
+触手05 = Tentacle 05
+触手06 = Tentacle 06
+触手07 = Tentacle 07
+ボテ縄 = Rope Bondage (For Pregnant Belly)
+触手08 = Tentacle 08
+触手09 = Tentacle 09
+触手10 = Tentacle 10
+面鎧A（色） = Face Armor A (CC)
+面鎧A（2色） = Face Armor A (2CC)
+面鎧B（色） = Face Armor B (CC)
+面鎧B（2色） = Face Armor B (2CC)
+面鎧A透（色） = Face Armor A Transparent (CC)
+面鎧B透（色） = Face Armor B Transparent (CC)
+剣闘士角（色） = Gladiator Horns (CC)
+般若角透（色） = Transparent Horns (CC)
+胴鎧・前（色） =  Body Armor・Front (CC)
+胴鎧・背（色） =  Body Armor・Back (CC)
+胴鎧・前（2色） = Body Armor・Front (2CC)
+胴鎧・背（2色） = Body Armor・Back (2CC)
+舌↓(色) = Tongue ↓ (CC)
+舌↑(色) = Tongue ↑ (CC)
+套-411（Jill-机甲-蓝） = Set-411 (Jill - Armor - Blue)
+
+
+//Neck
+ネックポンポン = Neck Ponpon
+ロングマフラー(襟) = A Long Scarf (Collar)
+ロングマフラー(帯) = A Long Scarf (Band)
+猫ファーリボン = Cat Fur Ribbon
+tera项链 = Tera Necklace
+ザク２（胸） = Zaku 2 (Chest)
+冬用マフラー = Winter Muffler
+牛用首輪（黒） = Cow Bell Collar (Black)
+牛用首輪（赤） = Cow Bell Collar (Red)
+牛用首輪（桃） = Cow Bell Collar (Pink)
+ホイッスル =  Whistle
+fan_舞娘（项链） = fan_Dancer (Necklace)
+铃铛项圈（1） = Bell Collar (1)
+铃铛项圈（2） = Bell Collar (2)
+バニー襟 = Bunny Collar
+シューター襟(青) = Shooter Collar (Blue)
+シューター襟(2色変可) = Shooter Collar (2CC)
+ネクタイ(緑) = Tie (Green)
+ネクタイ(赤) = Tie (Red)
+ネクタイ(青) = Tie (Blue)
+[s_k] シャツの襟 = [s_k] Shirt Collar (CC)
+
+
+//Shoulder
+肩パッド = Shoulder Pad
+ザク２肩(L) = Zaku 2 Shoulder (L)
+ザク２肩(R) = Zaku 2 Shoulder (R)
+鎧ドレスショルダー(サブ模様) = Armor Dress Shoulder (Sub Pattern)
+鎧ドレスショルダー(羽無し) = Armor Dress Shoulder (Main Pattern)
+*2連タングルショルダー(色変え可能) = 2x Shoulder Tangle (2CC)
+
+
+//Breast
+鈴 = Bell
+搾乳器A（色） = Milker A (CC)
+搾乳器A・液入（2色） = Milker A· Liquid (2CC)
+搾乳器B（色） = Milker B (CC)
+搾乳器B・液入（2色） = Milker B· Liquid (2CC)
+
+
+//Waist
+镖 = Surikens
+knightベルト = Knight Belt
+3連ベルト = 3 Continuous Belt
+ベルト1 = Belt 1
+ベルト2 = Belt 2
+ベルト3 = Belt 3
+テールコート（腰A） = Tail Coat (Waist A)
+テールコート（腰B） = Tail Coat (Waist B)
+テールコート(尾) = Tail Coat (Tail)
+テールコート(尾・固定) = Tail Coat (Tail Fixed)
+ディルドA = Dildo A
+ディルドB = Dildo B
+ディルドC = Dildo C
+ロングディルドA = Long Dildo A
+ロングディルドB = Long Dildo B
+ロングディルドC = Long Dildo C
+超ロングディルドA = Ultra Long Dildo A
+超ロングディルドB = Ultra Long Dildo B
+超ロングディルドC = Ultra Long Dildo C
+双頭ディルドA = Two Head Dildo A
+双頭ディルドB = Two Head Dildo B
+双頭ディルドC = Two Head Dildo C
+シッポ無柄(色変え可能) = Fur Tail (CC)
+シッポ豹柄(色変え可能) = Fur Tail Leopard (CC)
+猫シッポ2(色変え可能) = Cat Tail 2 (CC)
+猫シッポ3(色変え可能) = Cat Tail 3 (CC)
+ザク２腰 = Zaku 2 Waist
+苗床セット = Nursery Bed Set
+妊婦腹 = Pregnant Stomach
+膣拡張 = Vaginal Dilatation
+3点拡張 = 3 Points Expansion
+子宮 = Vaginal Prolapse
+肛 = Rectal Prolapse
+クリ = Enlarge Clitoris
+尿道 = Urethral Prolapse
+腹ボコ = Stomach Deformation
+腹ボコ（空洞） = Stomach Deformation (No Vagina)
+Mアクセ01 = M Access 01
+Mアクセ02 = M Access 02
+Mアクセ03 = M Access 03
+Mアクセ04 = M Access 04
+Mアクセ05 = M Access 05
+Aアクセ01 = A Access 01
+Aアクセ02 = A Access 02
+Aアクセ03 = A Access 03
+Aアクセ04 = A Access 04
+腰巻セーター（色変可） = Tied Sweater (CC)
+
+
+//Back
+華奢な翼 = Delicate Wings
+ロングマント = Long Cape
+マント = Cloak
+マント(固定) = Cloak (fixed)
+単色つばさ(左) = Single Color Wing (Left)
+単色つばさ(右) = Single Color Wing (Right)
+黒つばさA(左) = Black Wings A (Left)
+黒つばさA(右) = Black Wings A (Right)
+白つばさA(左) = White Wings A (Left)
+白つばさA(右) = White Wings A (Right)
+黒つばさB(左) = Black Wings B (Left)
+黒つばさB(右) = Black Wings B (Right)
+白つばさB(左) = White Wings B (Left)
+白つばさB(右) = White Wings B (Right)
+デビルつばさ(左) = Devil Wing (Left)
+デビルつばさ(右) = Devil Wing (Right)
+黒デビルつばさ(左) = Black Devil Wing (Left)
+黒デビルつばさ(右) = Black Devil Wing (Right)
+白デビルつばさ(左) = White Devil Wing (Left)
+白デビルつばさ(右) = White Devil Wing (Right)
+赤デビルつばさ(左) = Red Devil Wing (Left)
+赤デビルつばさ(右) = Red Devil Wing (Right)
+グレー膜つばさ(左) = Gray Membrane Wing (Left)
+グレー膜つばさ(右) = Gray Membrane Wing (Right)
+[YY]TERA-janovia翅膀 = [YY]TERA-janovia Wing
+フードマント(短) = Hooded Cloak (Short)
+箭袋 = Quiver
+
+
+//Arm
+振袖（左） = Long Sleeve (Left)
+振袖（右） = Long Sleeve (Right)
+腕鎧A（色） = Arm Armor A (CC)
+腕鎧A（2色） = Arm Armor A (2CC)
+腕鎧B（色） = Arm Armor B (CC)
+腕鎧B（2色） = Arm Armor B (2CC)
+手甲・左（色） = Glove・Left (CC)
+手甲・右（色） = Glove・Right (CC)
+手甲・左（2色） = Glove・Left (2CC)
+手甲・右（2色） = Glove・Right (2CC)
+腕鎧A透（色） = Arm Armor A Transparent (CC)
+腕鎧B透（色） = Arm Armor B Transparent (CC)
+手甲・左透（色） = Glove・Left Transparent (CC)
+手甲・右透（色） = Glove・Right Transparent (CC)
+巫女袖左用(2色) = Miko Sleeve Left (2CC)
+巫女袖右用(2色) = Miko Sleeve Right (2CC)
+
+
+//Hand
+苦无(独立) = Kunai (One)
+苦无(指环) = Kunai (Many)
+サンタバッグ = Santa's Bag
+ウォーターガン = Water Gun
+ザク２腕 = Zaku 2 Arms
+ヒートホーク = Heat Hawk
+ザクマシンガン = Zaku Machine Gun
+直突式ドリル = Direct-Drive Drill
+部活リストバンド１A（カラー） = Club Activity Wristband 1A (CC)
+部活リストバンド１B（カラー） = Club Activity Wristband 1B (CC)
+部活リストバンド（2色） = Club Activity Wristbands (2CC)
+丸型腕時計A（色） = Round Watch A (CC)
+丸型腕時計B（2色） = Round Watch B (2CC)
+追加_シュシュ = Scrunchie
+弓 = Dragon Bow
+
+
+//Leg
+ガーターリング左（色変え可能） = Garter Ring Left (CC)
+ガーターリング右（色変え可能） = Garter Ring Right (CC)
+ザク２脚(R) = Zaku 2 Leg (R)
+ザク２脚(L) = Zaku 2 Leg (L)
+套-411（Jill-机甲）L = Set-411 (Jill - Armor) L
+套-411（Jill-机甲）R = Set-411 (Jill - Armor) R
+
+
+
+// -----------------------------------------------------------------------------------------------
+// end
+// -----------------------------------------------------------------------------------------------

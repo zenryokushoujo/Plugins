@@ -1,0 +1,1757 @@
+﻿//
+// HoneySelect Studio translation (based on the SBPR translation.)
+//
+
+// -------------------------------------------------------
+//  ADD Menu
+// -------------------------------------------------------
+
+
+女キャラ = Female
+男キャラ = Male
+アイテム = Item
+マップ = Map
+ライト = Light
+外部画像 = Background
+
+
+// -------------------------------------------------------
+//  ADD Item Menus
+// -------------------------------------------------------
+
+
+基本形 = Basic Shape
+ベース = Base
+家具 = Furniture
+オブジェ = Object
+食材 = Food
+武器 = Weapon
+小物 = Accessory
+キャラ = Character
+Ｈアイテム = H item
+液体 = Liquid
+2D効果 = 2D effect
+エフェクト = Effect
+ギミック = Gimmick
+3DSE = 3D SE
+キャラ追加 = Character Add
+
+
+// -------------------------------------------------------
+//  Item Section
+// -------------------------------------------------------
+
+
+//Basic Shape
+スフィア = Sphere
+キューブ = Cube
+ピラミッド = Pyramid
+コーン = Cone
+シリンダー = Cylinder
+クリスタル = Crystal
+リング = Ring
+
+
+//Base
+砂１ = Sand 1
+砂２ = Sand 2
+砂浜 = Sandy Beach
+水面(海) = Water Surface (Sea)
+水面(川) = Water Surface (River)
+地面(土) = Ground (Soil)
+地面(木１) = Ground (Wood 1)
+地面(木２) = Ground (Wood 2)
+地面(石１) = Ground (Stone 1)
+地面(石２) = Ground (Stone 2)
+地面(コンクリ) = Ground (Concrete)
+地面(タイル１) = Ground (Tile 1)
+地面(タイル２) = Ground (Tile 2)
+マット１ = Mat 1
+マット２ = Mat 2
+マット３ = Mat 3
+木製床 = Wooden Floor
+石床１ = Stone Floor 1
+石床２ = Stone Floor 2
+畳１ = Tatami 1
+畳２ = Tatami 2
+ドア１ = Door 1
+ドア２ = Door 2
+ドア３ = Door 3
+障子 = Paper Sliding Door
+扉１ = Door 1
+カーテン窓 = Curtain Window
+窓 = Window
+石柱１ = Stone Column 1
+石柱２ = Stone Column 2
+木柱１ = Wood Pillar 1
+木柱２ = Wood Pillar 2
+壁(石１) = Wall (Stone 1)
+壁(石２) = Wall (Stone 2)
+壁(石３) = Wall (Stone 3)
+壁(石４) = Wall (Stone 4)
+壁(木１) = Wall (Wood 1)
+壁(木２) = Wall (Wood 2)
+壁(木３) = Wall (Wood 3)
+壁(木４) = Wall (Wood 4)
+壁(木５) = Wall (Wood 5)
+壁(木６) = Wall (Wood 6)
+壁(木７) = Wall (Wood 7)
+壁(木８) = Wall (Wood 8)
+壁(木９) = Wall (Wood 9)
+壁(土１) = Wall (Soil 1)
+壁(土２) = Wall (Soil 2)
+壁(コンクリ１) = Wall (Concrete 1)
+壁(コンクリ２) = Wall (Concrete 2)
+壁(レンガ) = Wall (Brick)
+屋根(瓦) = Roof (Tile)
+屋根(木) = Roof (Wood)
+空 = Sky
+
+
+//Furniture
+シンプルベッド = Simple bed
+洋風ベッド = Western-style bed
+女の子風ベッド = Girl style bed
+布団 = Futon
+布団２ = Futon 2
+簡素なパイプベッド = Simple pipe bed
+ベッド = Bed
+キャンプベッド = Camp bed
+中華風ベッド = Chinese style bed
+エステベッド = Esthetic Bed
+ＴＶセット = TV set
+中華風ＴＶセット = Chinese style TV set
+AVコンポ = AV component
+革ソファ = Leather sofa
+和風ソファ = Japanese style sofa
+カウチソファ = Couch sofa
+長型カウチソファ = Long type couch sofa
+豪華ソファ１ = Luxury sofa 1
+豪華ソファ２ = Luxury sofa 2
+長ソファ = Long sofa
+木椅子１ = Wooden chair 1
+木椅子２ = Wooden chair 2
+テラスチェアー = Terrace chair
+デッキチェア = Deck chair
+ガラスチェア = Glass chair
+ビーチチェア = Beach chair
+ダブルチェア = Double chair
+ガーデンチェア = Garden chair
+座椅子 = Seating chair
+中華風椅子 = Chinese style chair
+オフィス椅子 = Office chair
+革椅子１ = Leather chair 1
+革椅子(高) = Leather chair (high)
+教室用椅子 = Classroom chair
+パイプ椅子 = Pipe chair
+プール椅子 = Pool chair
+シンプル椅子 = Simple chair
+長椅子 = Chaise Lounge
+診察椅子 = Examination chair
+ボロ椅子 = Boro chair
+ベンチ = Bench
+ピアノ椅子 = Piano chair
+座布団 = Cushion
+酒場椅子 = Bar Chair
+丸椅子(高) = Round chair (high)
+ガラステーブル１ = Glass table 1
+ガラステーブル２ = Glass table 2
+ガラステーブル３ = Glass table 3
+ガラステーブル４ = Glass table 4
+木目テーブル = Wood grain table
+テラステーブル = Terrace table
+中華風テーブル = Chinese style table
+1人用テーブル = 1 person table
+ガーデンテーブル = Garden table
+木机 = Wooden age
+オフィス机１ = Office desk 1
+オフィス机２ = Office desk 2
+オフィス机３ = Office desk 3
+PCデスク = PC desk
+中華風PCデスク = Chinese style PC desk
+プレジデント用机 = President desk
+教卓 = Curriculum
+教室用机 = Classroom desk
+プール机 = Pool desk
+シンプル机 = Simple desk
+ロビー机 = Lobby desk
+ボロ机 = Rolling machine
+酒場机 = Tavern desk
+Ｌ字カウンター = L character counter
+四角照明 = Square lighting
+丸照明１ = Round lighting 1
+丸照明２ = Round lighting 2
+和照明１ = Japanese lighting 1
+洋照明１ = Western lighting 1
+洋照明２ = Western lighting 2
+洋照明３ = Western light 3
+中華照明１ = Chinese lighting 1
+部屋照明１ = Room lighting 1
+部屋照明２ = Room lighting 2
+部屋照明３ = Room lighting 3
+筒照明１ = Tubular lighting 1
+風呂照明 = Bath lighting
+ハンガーラック = Hanger rack
+ピッチラック = Pitch rack
+中華風壁面ラック = Chinese style wall rack
+箪笥 = Chest of drawers
+大小箪笥 = Large and small chest of drawers
+桐箪笥 = Kiri Tansu
+中華風箪笥 = Chinese style chest of drawers
+チェスト = Chest
+中華風チェスト = Chinese style chest
+ワードローブ = Wardrobe
+システムキッチン = System kitchen
+電話台 = Telephone stand
+オフィス棚 = Office shelf
+資料棚 = Data shelf
+壁棚 = Wall shelf
+壁棚２ = Wall shelf 2
+壁棚３ = Wall shelf 3
+壁棚４ = Wall shelf 4
+食器棚 = Cupboards
+シンプル棚 = Simple shelf
+インテリア棚 = Interior shelf
+ブラインド黒 = Blind black
+ブラインド白 = Blind white
+パーテーション = Partition
+中華風屏風 = Chinese style screen
+ロッカー = Locker
+黒板(小) = Blackboard (small)
+黒板(大) = Blackboard (large)
+グランドピアノ = Grand piano
+洋式便器 = Western style toilet
+男性用便器 = Men's toilet
+手術器具置き = Surgical instrument placement
+手術台 = Operating table
+分娩台 = Delivery table
+レジ１ = Register 1
+レジ２ = Cashier 2
+灯篭 = Lanterns
+手すり = Railings
+換気扇 = Ventilator Fan
+業務用冷蔵庫 = Business Refrigerator
+自動販売機1 = Vending Machine 1
+自動販売機2 = Vending Machine 2
+
+
+//Object
+樽 = Barrel
+酒甕 = Liquor Jar
+案内板１ = Guide Plate 1
+案内板２ = Guide Plate 2
+看板 = Signboard
+公衆電話 = Public Phone
+バス停 = Bus Station
+スピーカー = Speaker
+観葉植物１ = Houseplant 1
+観葉植物２ = Houseplant 2
+観葉植物３ = Houseplant 3
+ヤシの木１ = Palm tree 1
+ヤシの木２ = Palm tree 2
+紅葉の木 = Autumn Leaves Tree
+クリスマスツリー = Christmas Tree
+麻袋 = Hemp Bag
+壺１ = Vase 1
+壺２ = Vase 2
+橋 = Bridge
+桟橋１ = Pier 1
+桟橋２ = Pier 2
+桟橋３ = Pier 3
+階段１ = Staircase 1
+階段２ = Staircase 2
+ステージ１ = Stage 1
+ステージ２ = Stage 2
+ステージポール = Stage Pole
+柵１ = Rail 1
+柵２ = Rail 2
+柵３ = Rail 3
+柵４ = Rail 4
+柵５ = Rail 5
+花壇１ = Flowerbed 1
+花壇２ = Flowerbed 2
+花壇３ = Flowerbed 3
+岩１ = Rock 1
+岩２ = Rock 2
+岩３ = Rock 3
+岩４ = Rock 4
+岩５ = Rock 5
+木製オブジェ = Wooden Object
+水差し = Pitcher
+外灯 = Outdoor Light
+設置型松明 = Installation Type Torch
+フラッグ小屋 = Flag Hut
+小屋 = Hut
+狸の置物 = Tanuki's Ornament
+ドルフくん石像 = Dorufu-kun Statue
+ドルフくん = Dorufu-kun
+
+
+//Foodstuff
+バナナ１ = Banana 1
+バナナ２ = Banana 2
+ゴーヤ = Goya
+キュウリ = Cucumber
+ニンジン = Carrot
+スイカ = Watermelon
+棒アイス = Rod Ice
+うなぎ = Eel
+チキン = Chicken
+ソーセージ = Sausage
+瓶１ = Bottle 1
+瓶２ = Bottle 2
+クリスマスケーキ = Christmas cake
+紙コップ = Paper cup
+パン１ = Pan 1
+パン２ = Bread 2
+酒樽 = Barrel
+チーズ = Cheese
+骨付き肉 = Meat with bone
+陶器酒瓶 = Pottery sake bottle
+コップ(水) = Cup (water)
+コーヒー = Coffee
+ビール１ = Beer 1
+ビール２ = Beer 2
+ワイングラス１ = Wine glass 1
+ワイングラス２ = Wine glass 2
+ワインボトル = Wine bottle
+サラダ = Salad
+サンドイッチ = Sandwich
+ピザ = Pizza
+紅茶カップ１ = Tea cup 1
+紅茶カップ２ = Tea cup 2
+紅茶皿 = Black tea dish
+紅茶ポット = Tea pot
+
+
+//Weapon
+ピストル = Pistol
+ナイフ = Knife
+コンバットナイフ = Combat Knife
+中華刀 = Chinese sword
+杖 = Cane
+マジカルステッキ = Magical sticky
+鎌 = Sickles
+バスタードソード = Bastard Sword
+ヒーローレイピア = Hero Rapier -
+ヒーローブレード = Hero blade
+ボロボロの剣 = Sword of a rustling
+伝説の剣 = The legendary sword
+カタナ = Katana
+妖刀 = Devil sword
+チェーンソー = Chainsaw -
+竹刀 = Bamboo sword
+木刀 = Kimono
+警棒 = Baton
+スタンガン = Stun gun
+松明 = Torches
+ピコハン = Picohan
+サーベル = Saber-
+斧 = Ax
+ルーンソード = Rune Sword
+音切丸 = Sound notch
+レイピア = Rapier
+ダガー = Dagger
+小太刀 = Oota sword
+クレイモア = Claymore
+バックラー = Buckler
+ルーンシールド = Runeshield
+古式銃 = Old style gun
+古式ライフル銃 = Ancient rifle
+アサルトライフル = Assault rifle
+マガジン = Magazine
+薬莢 = Pharmaceutical capsule
+弾 = Bullet
+ロングボウ = Long bow
+鉄の矢 = Iron Arrow
+クナイ(束) = Kunei (bunch)
+クナイ = Kunai
+札束(右) = Bundle (right)
+札束(左) = Bundle (left)
+札 = Bill
+エントロッド = Entrod
+マリオンの魔導書 = Marion 's magic book
+魔鏡 = Magic mirror
+ハルバード = Halberd
+ウォーハンマー = Warhammer
+バルバトス = Barbatos
+ベリアル = Belial
+ホーリーランス = Holy Lance
+
+
+//Accessory
+時計 = Watch
+中華風壁飾り = Chinese style wall decoration
+ポスター = Poster
+和色紙額 = Japanese colored paper amount
+金庫 = Safe
+銅鑼（ドラ） = Gong Dora
+エアコン = Air conditioner
+ファンヒーター = Fan heater
+石油ストーブ = Oil stove
+やかん = Kettle
+コピー機 = Copier
+パラソル１ = Parasol 1
+パラソル２ = Parasol 2
+パラソル３ = Parasol 3
+かご = Basket
+レフ板 = Ref plate
+ホワイトボード = Whiteboard
+自転車 = Bicycle
+木製バット = Wooden bat
+金属バット = Metal bat
+ヘルメット = Helmet
+ダンボール閉 = Cardboard closure
+ダンボール開 = Cardboard opening
+ゴミ袋 = Garbage bag
+ゴミ箱 = Trash bin
+筒ゴミ箱 = Cylinder trash
+金属ゴミ箱 = Metal trash can
+うさぎの人形 = Usagi dolls
+日本人形 = Japanese dolls
+クリップ = Clip
+洗濯バサミ = Clothespin
+ハンカチ = Handkerchief
+黒電話 = Black phone
+携帯電話 = Mobile phone
+スマホ = Smartphone
+指示棒 = Directed bar
+縦笛 = Flute
+宝箱 = Treasure Box
+宝箱２ = Treasure box 2
+木箱 = Wooden box
+プレゼント袋 = Present bag
+プレゼントボックス = Present box
+リボン＆ベル = Ribbon & Bell
+薔薇 = Rose
+ダンベル = Dumbbell
+バレーボール = Volleyball
+ビーチボール = Beach ball
+レザーバッグ = Leather bag
+ショルダーバッグ = Shoulder bag
+オール = Oar
+点滴スタンド = Infusion stand
+手術用照明器 = Surgical illuminator
+クスコ = Cusco
+車椅子 = Wheelchair
+担架 = Stretcher
+聴診器 = Stethoscope
+注射器１ = Syringe 1
+注射器２ = Syringe 2
+洗面器 = Basin
+体温計 = Thermometer
+カルテ = Karte
+ピンセット = Tweezers
+チラシ（薄い） = Flyer (thin)
+チラシ（厚い） = Flyer (thick)
+竹箒 = Bamboo broom
+箒 = A broom
+ペンライト = Penlight
+水着ハンガー = Swimsuit hanger
+バッジ = Badge
+カメラ = Camera
+ビデオカメラ = Video camera
+ラジオ = Radio
+煙管 = Smoke pipe
+煙草 = Tobacco
+地図 = Map
+水鉄砲 = Water gun
+旗 = Flag
+ペン = Pen
+ウクレレ = Ukulele
+釣り竿 = Fishing rod
+釣り椅子 = Fishing chair
+皿 = Dish
+包丁 = Kitchen knife
+プロペラ羽 = Propeller feather
+デッキブラシ = Deck brush
+フラフープ = Hula Hoop
+清掃用バケツ = Bucket for cleaning
+タオルハンガー１ = Towel hanger 1
+タオルハンガー２ = Towel hanger 2
+ビーチマット = Beach mat
+バインダー = Binder
+陶器小物１ = Pottery accessories 1
+陶器小物２ = Pottery accessories 2
+陶器小物３ = Porcelain accessories 3
+ノートPC = Note PC
+ロウソク２ = Candle 2
+布巾 = Dressing width
+風呂場ボトル１ = Bathroom bottle 1
+風呂場ボトル２ = Bathroom Bottle 2
+風呂場カラン = Bathroom Curran
+絵画１ = Painting 1
+絵画２ = Painting 2
+足拭きマット = Foot wiping mat
+絨毯 = Carpet
+ハンドドライヤー = Hand dryer
+トイレットペーパー = Toilet paper
+ノート１ = Note 1
+ノート２ = Note 2
+
+
+//Character
+カウボーイハット = Cowboy Hat
+付け毛お団子 = Hair attached dumpling
+付け毛ねじねじ = Hair screw thread
+付け毛細い = Attached hair thin
+付け毛太い = Attached hair thick
+付け毛ポニテ = Ponto hair attached
+付け毛ツインテ１ = Hair hair twin 1
+付け毛ツインテ２ = Attached hair twins 2
+付け毛ウェーブ = Bristle Wave
+付け毛ストレート = Straight hair
+メカ装甲１ = Mechanical armor 1
+メカ装甲２ = Mechanical Armor 2
+メカ装甲３ = Mechanical Armor 3
+メカ装甲４ = Mechanical Armor 4
+メカポッド = Mechanic Pod
+メカシールド = Mechanical shield
+メカゴーグル = Mechagoguru
+メカバイザー = Mechanical visor
+メカボール = Mechanical ball
+メカポール = Mechanpor
+メカビームポール = Mechanical beam poles
+メカデルタ = Mechanical delta
+メカボックス = Mechanical box
+メカサークル = Mechanical circle
+メカウィング = Mechanical wing
+メカブースター = Mechanical booster
+メカチューブ = Mechanical tube
+メカシザー = Mechaniser
+メカドリル = Mechanical drill
+トゲ = Thorn
+湾曲角 = Curved angle
+巻き角 = Winding angle
+スクエアA = Square A
+スクエアB = Square B
+スクエアC = Square C
+オーバルA = Oval A
+オーバルB = Oval B
+オーバルC = Oval C
+オーバルD = Oval D
+ブロウ = Blow
+ウェリントン = Wellington
+スポーツ赤 = Sports red
+スポーツ青 = Sports Blue
+メタルフレーム = Metal frame
+水泳ゴーグル１ = Swimming goggles 1
+水泳ゴーグル２ = Swimming goggles 2
+パピヨン = Papillon
+ゴーグル = Goggles
+アイマスク = Eye mask
+眼帯右用 = Eye band right use
+眼帯左用 = For the left eye zone
+カニ = Crab
+骸骨面上顎 = Skeleton surface maxilla
+骸骨面下顎 = Skeleton mandible
+タングルショルダー = Tangle shoulder
+くノ一肩当て = Kunoichi shoulder rest
+ナイトバイザー = Night visor
+剣闘士の肩当て = Gladiator's shoulder rest
+剣闘士の額当て = Gladiator's forehead rest
+ローファー(左) = Loafer (left)
+ローファー(右) = Loafer (right)
+上履き(左) = Shoes (left)
+上履き(右) = Shoes (right)
+モヒカン = Mohawk
+サングラス = Sunglasses
+たたんだ眼鏡 = Folded glasses
+
+
+//H Item
+拷問器具 = Torture Instrument
+吊るし檻 = Hanging Cage
+首腕拘束帯 = Neck arrest zone
+拘束鎖 = Restrain chain
+鎖 = Chain
+ギャグボール１ = Gag Ball 1 
+ギャグボール２ = Gag Ball 2
+棘ボール = Thorny Ball
+アイアンメイデン = Iron Maiden
+媚薬 = Aphrodisiac
+手錠 = Handcuffs
+首手枷 = Neck Plank
+手枷 = Leather Cuffs
+ギロチン = Guillotine
+固定ギロチン = Fixed Guillontine
+錘 = Spindle
+首輪 = Collar
+首輪（棘付） = Collar (with thorns)
+乗馬ムチ = Riding Horse
+綱手枷 = Rope Cuffs
+綱輪１ = Ring 1
+綱輪２ = Ring 2
+蔦輪 = Iron Ring
+ローション = Lotion
+ロウソク = Candles
+三角木馬１ = Triangular Horse 1
+三角木馬３ = Triangular Horse 3
+股割り器 = Crotch Divider
+スケベイス = Bucket Stool
+ソープマット = Air Mattress
+ローター = Rotor
+アナルビーズ１ = Anal Beads 1
+アナルビーズ２ = Anal Beads 2
+アナルビーズ３ = Anal Beads 3
+アナルバイブ１ = Anal Vibe 1
+アナルバイブ２ = Anal Vibe 2
+アナルバイブ３ = Anal Vibe 3
+バイブ１ = Vibe 1
+バイブ２ = Vibe 2
+バイブ３ = Vibe 3
+バイブ４ = Vibe 4
+ディルドー = Dildo
+マッサージ器１ = Massager 1
+マッサージ器２ = Massager 2
+マッサージ器３ = Massager 3
+
+
+//Liquid
+液溜まり = Sump
+液体Ａ = Liquid A
+液体Ｂ = Liquid B
+溶解粘液A = Slime A
+溶解粘液B = Slime B
+溶解粘液C = Slime C
+溶解粘液D = Slime D
+溶解粘液E = Slime E
+溶解粘液F = Slime F
+溶解粘液G = Slime G
+溶解粘液H = Slime H
+
+
+//2D Effect
+レンズフレアＡ = Lens Flare A 
+レンズフレアＢ = Lens Flare B
+吹き出しＡ = Speech Balloon A
+吹き出しＢ = Speech Balloon B
+吹き出しＣ = Speech Balloon C
+吹き出しＤ = Speech Balloon D
+吹き出しＥ = Speech Balloon E
+吹き出しＦ = Speech Balloon F
+吹き出しＧ = Speech Balloon G
+吹き出しＨ = Speech Balloon H
+集中線 = Line Burst
+丸影 = Round Shadow
+
+
+//Effect
+液体（黄） = Liquid (yellow)
+濃い液体（弱） = Thick liquid (weak)
+濃い液体（中） = Thick liquid (medium)
+濃い液体（強） = Thick liquid (strong)
+シャワー（弱） = Shower (weak)
+シャワー（強） = Shower (strong)
+火 = Fire
+滝 = Waterfall
+
+
+//Gimmick
+関節180 = Joint 180
+関節60 = Joint 60
+ピストン = Piston
+回転（obj無し） = Rotation (no obj)
+ピストン（obj無し） = Pistion (without obj)
+振動（obj無し） = Vibration (no obj)
+浮遊（obj無し） = Floating (no obj)
+回転180（obj無し） = Rotation 180 (no obj)
+回転60（obj無し） = Rotation 60 (no obj)
+バウンド１（obj無し） = Bound 1 (no obj)
+バウンド２（obj無し） = Bound 2 (no obj)
+
+
+//3D SE
+焚火 = Fireworks
+虫の鳴き声 = Insects
+波の音 = Wave sound
+ジャングル = Jungle
+水音 = Water sound
+川 = River
+街の鳥 = Birds in the city
+鳥のさえずり = Birds singing
+バイブ音 = Vibe sound
+ピストン1(遅) = Piston 1 (late)
+ピストン1(早) = Piston 1 (early)
+ピストン2(遅) = Piston 2 (late)
+ピストン2(早) = Piston 2 (early)
+喘ぎ明るい = Pant (Cheerful)
+フェラ明るい = Blowjob (Cheerful)
+喘ぎツンデレ = Pant (Tsundere)
+フェラツンデレ = Blowjob (Tsundere)
+喘ぎおっとり = Pant (Gentle)
+フェラおっとり = Blowjob (Gentle)
+喘ぎ無口 = Pant (Withdrawn)
+フェラ無口 = Blowjob (Withdrawn)
+喘ぎヤンデレ = Pant (Yandere)
+フェラヤンデレ = Blowjob (Yandere)
+喘ぎ大雑把 = Pant (Easygoing)
+フェラ大雑把 = Blowjob (Easygoing)
+喘ぎ生真面目 = Pant (Strict)
+フェラ生真面目 = Blowjob (Strict)
+喘ぎボーイッシュ = Pant (Boyish)
+フェラボーイッシュ = Blowjob (Boyish)
+喘ぎ元気 = Pant (Energetic)
+フェラ元気 = Blowjob (Energetic)
+喘ぎ几帳面 = Pant (Diligent)
+フェラ几帳面 = Blowjob (Diligent)
+喘ぎ活発 = Pant (Active)
+フェラ活発 = Blowjob (Active)
+喘ぎ誠実 = Pant (Sincere)
+フェラ誠実 = Blowjob (Sincere)
+喘ぎ妖艶 = Pant (Bewitching)
+フェラ妖艶 = Blowjob (Bewitching)
+
+
+//Character Add
+牡丹のかんざし = Peony Hairpin
+キノコ = Mushroom
+貝殻 = Seashell
+メンダコ = Squid
+ネジ = Screw
+かぼちゃヘッド = Pumpkin Head
+豚頭 = Pig Head
+鎧兜 = Knight Helm
+バーサーカー三つ編みA = Berserker's Braid A
+バーサーカー三つ編みB = Berserker's Braid B
+鎧ドレスショルダー右 = Armor Dress Shoulder Right
+鎧ドレスショルダー左 = Armor Dress Shoulder Left
+鎧肩当て右 = Shoulder Armor Right
+鎧肩当て左 = Shoulder Armor Left
+サキュバス右腕飾り = Succubus Right Arm Acc
+サキュバス左腕飾り = Succubus Left Arm Acc
+バーサーカー肩当て右 = Berserker Shoulder Right
+バーサーカー肩当て左 = Berserker Shoulder Left
+鎧ドレスガード右 = Armor Dress Guard Right
+鎧ドレスガード左 = Armor Dress Guard Left
+悪魔の尻尾 = Devil's tail
+バーサーカー腰飾り = Berserker Waist Cloth
+翼右 = Wing Right
+翼左 = Wing Left
+ミニ翼右 = Mini Wing Right
+ミニ翼左 = Mini Wing Left
+悪魔羽右 = Demon Wing Right
+悪魔羽左 = Demon Wing Left
+バーサーカー腕当て右 = Berserker Arm Right
+バーサーカー腕当て左 = Berserker Arm Left
+アンクレット = Belly Dancer Anklet
+オウムおもちゃ = Parrot Toy
+鳥の仮面 = Bird Mask
+
+
+//FK
+FK触手１ = FK Tentacle 1
+FK触手２ = FK Tentacle 2
+FKアナルビーズ１ = FK Anal Beads 1
+FKアナルビーズ２ = FK Anal Beads 2
+FKアナルビーズ３ = FK Anal Beads 3
+FK関節 = FK Joint
+
+
+// -------------------------------------------------------
+//  Map Menu
+// -------------------------------------------------------
+
+
+なし = None
+ロビー = Lobby
+和室 = Japanese Style room
+自室 = My room
+女の子部屋 = Girl room
+混浴浴場 = Mixed bath house
+中庭 = Courtyard
+裏庭 = Backyard
+地下室 = Basment
+トイレ = Toilet
+シャワー室 = Shower
+女の子部屋前 = Girl Room Front
+シャワールーム前 = Shower Room Front
+教室 = Classroom
+SM部屋 = SM Room
+ゲームブース = Game Booth
+酒場 = Bar
+肉壁 = Meat wall
+VIPロビー = VIP Lobby
+酒場前 = Before the bar
+温泉 = Hot Spring
+草原 = Grassland
+宮殿 = The Palace
+
+
+// -------------------------------------------------------
+//  Light Menu
+// -------------------------------------------------------
+
+
+全体光(ALL) = Overall light (ALL)
+ポイントライト(ALL) = Point light (ALL)
+スポットライト(ALL) = Spotlight (ALL)
+全体光(キャラのみ) = Overall light (character only)
+ポイントライト(キャラのみ) = Point light (character only)
+スポットライト(キャラのみ) = Spotlight (character only)
+全体光(マップのみ) = Overall light (map only)
+ポイントライト(マップのみ) = Point light (map only)
+スポットライト(マップのみ) = Spotlight (map only)
+
+
+// -------------------------------------------------------
+//  Anim Menu
+// -------------------------------------------------------
+
+
+状態 = State
+キネマ = Kinematics
+アニメ = Animation
+ボイス = Voice
+衣装 = Costume
+関節補正 = Joint Correction
+
+
+//-----------------------------------------------------
+//  Anim - Item Colour Setting
+//-----------------------------------------------------
+
+
+//Color Setting
+カラー１ = Color 1
+ツヤの強さ = Intensity
+ツヤの質感 = Softness
+ツヤの色 = Shine Color
+カラー２ = Color 2
+
+
+//-----------------------------------------------------
+//  Anim - Light
+//-----------------------------------------------------
+
+
+// 
+ターゲット表示 = Target Display
+ライトのON/OFF = Light ON/OFF
+スポット角度 = Spot Angle
+
+
+// -------------------------------------------------------
+//  State Menu
+// -------------------------------------------------------
+
+//categories
+服装 = Dress Set
+
+//Dress Set
+タイプ = Type
+一括 = Collective
+
+//Crotch Details - F
+トップ = Top
+ボトム = Bottom
+ブラ = Bra
+ショーツ = Shorts
+水着上 = Upper Swimsuit
+水着下 = Lower Swimsuit
+トップ(水着) = Top (swimsuit)
+ボトム(水着) = Bottom (swimsuit)
+手袋 = Gloves
+パンスト = Pantyhose
+靴下 = Socks
+靴 = Shoes
+
+//Crotch Details - M
+服 = Clothing
+
+//Accessories - M F
+スロ01 = Accessory 01
+スロ02 = Accessory 02
+スロ03 = Accessory 03
+スロ04 = Accessory 04
+スロ05 = Accessory 05
+スロ06 = Accessory 06
+スロ07 = Accessory 07
+スロ08 = Accessory 08
+スロ09 = Accessory 09
+スロ10 = Accessory 10
+
+//Juice
+顔 = Face
+胸 = Chest
+背中 = Back
+腹 = Belly
+お尻 = Butt
+
+//Misc - F
+涙Lv = Tears Lv
+頬赤 = Blush
+乳首 = Nipples
+肌艶 = Skin Shine
+
+//Misc - M
+単色化 = Monochromatic Display
+単色表示の色 = Monochromatic Color
+男根 = Penis
+
+
+// -------------------------------------------------------
+//  Kinematics Menu
+// -------------------------------------------------------
+
+//Kinematics Menu
+FK = FK
+IK = IK
+視線 = Gaze
+首操作 = Neck operation
+目・口・手 = Eyes/Mouth/Hand
+ポーズ = Presets
+FK&IK = FK&IK
+
+//  FK Menu
+表示 = Display
+機能 = Function
+髪 = Hair
+首 = Neck
+体 = Body
+右手 = Right hand
+左手 = Left hand
+スカート = Skirt
+サイズ = Size
+
+//  IK Menu
+左足 = Left foot
+右足 = Right foot
+左腕 = Left arm
+右腕 = Right arm
+
+//Eye/Mouth/Hand Menu
+種類 = Type
+開き = Open
+瞬き = Eye Blink
+口パク = Mouth
+
+
+// -------------------------------------------------------
+//  Animation - Menu
+// -------------------------------------------------------
+
+
+H愛撫 = H Caressing
+H奉仕 = H Service
+H挿入 = H Insertion
+H特殊 = H Special
+H複数 = H Multiple
+H追加① = H Addition ①
+バトル = Battle
+
+
+// -------------------------------------------------------
+//  Animation - Controller
+// -------------------------------------------------------
+
+
+付属アイテム表示 = Supplied item display
+補助１ = Auxiliary 1
+補助２ = Auxiliary 2
+パターン = Pattern
+強制ループ = Forced Loop
+アニメーション操作 = Animation operation
+速度 = Speed
+
+
+// -------------------------------------------------------
+//  Animation - Presets
+// -------------------------------------------------------
+
+
+//Submenus
+グラビア = Model
+汎用 = General purpose
+カットイン = Cut In
+
+
+//Char Maker
+立ち１ = Standing 1
+立ち２ = Standing 2
+立ち３ = Standing 3
+立ち４ = Standing 4
+立ち５ = Standing 5
+立ち６ = Standing 6
+立ち７ = Standing 7
+立ち８ = Standing 8
+立ち９ = Standing 9
+立ち１０ = Standing 10
+立ち１１ = Standing 11
+立ち１２ = Standing 12
+立ち１３ = Standing 13
+立ち１４ = Standing 14
+立ち１５ = Standing 15
+立ち１６ = Standing 16
+立ち１７ = Standing 17
+立ち１８ = Standing 18
+立ち１９ = Standing 19
+座り１ = Sitting 1
+座り２ = Sitting 2
+座り３ = Sitting 3
+寝 = Sleeping
+
+
+//Model
+中腰１ = Middle 1
+中腰２ = Middle 2
+中腰３ = Middle 3
+中腰４ = Middle 4
+中腰５ = Middle 5
+中腰６ = Middle 6
+中腰７ = Middle 7
+座り４ = Sitting 4
+座り５ = Sitting 5
+座り６ = Sitting 6
+座り７ = Sitting 7
+座り８ = Sitting 8
+座り９ = Sitting 9
+座り１０ = Sitting 10
+座り１１ = Sitting 11
+寝１ = Sleeping 1
+寝２ = Sleeping 2
+寝３ = Sleeping 3
+寝４ = Sleeping 4
+寝５ = Sleeping 5
+寝６ = Sleeping 6
+寝７ = Sleeping 7
+寝８ = Sleeping 8
+椅子１ = Chair 1
+椅子２ = Chair 2
+椅子３ = Chair 3
+
+
+//General Purpose
+初期ポーズ = Initial Pose
+マネキン = Mannequin
+
+
+//Cut In
+格闘A１ = Fists A1
+格闘A２ = Fists A2
+格闘A３ = Fists A3
+格闘B１ = Fists B1
+格闘B２ = Fists B2
+格闘B３ = Fists B3
+気弾１ = Magic 1
+気弾２ = Magic 2
+気弾３ = Magic 3
+片手剣１ = One-Handed Sword 1
+片手剣２ = One-Handed Sword 2
+片手剣３ = One-Handed Sword 3
+盾と剣１ = Shield and Sword 1
+盾と剣２ = Shield and Sword 2
+盾と剣３ = Shield and Sword 3
+小太刀１ = Kodachi 1
+小太刀２ = Kodachi 2
+小太刀３ = Kodachi 3
+小太刀二刀１ = Dual Kodachi 1
+小太刀二刀２ = Dual Kodachi 2
+小太刀二刀３ = Dual Kodachi 3
+拳銃１ = Handgun 1
+拳銃２ = Handgun 2
+拳銃３ = Handgun 3
+二丁拳銃１ = Dual Handgun 1
+二丁拳銃２ = Dual Handgun 2
+二丁拳銃３ = Dual Handgun 3
+投擲１ = Kunai 1
+投擲２ = Kunai 2
+投擲３ = Kunai 3
+魔法杖１ = Magic Wand 1
+魔法杖２ = Magic Wand 2
+魔法杖３ = Magic Wand 3
+魔法本１ = Magic Book 1
+魔法本２ = Magic Book 2
+魔法本３ = Magic Book 3
+両手剣１ = Two-Handed Sword 1
+両手剣２ = Two-Handed Sword 2
+両手剣３ = Two-Handed Sword 3
+棒・槍１ = Bo / Spear 1
+棒・槍２ = Bo / Spear 2
+棒・槍３ = Bo / Spear 3
+槌・鎌１ = Hammer / Scythe 1
+槌・鎌２ = Hammer / Scythe 2
+槌・鎌３ = Hammer / Scythe 3
+ライフル１ = Rifle 1
+ライフル２ = Rifle 2
+ライフル３ = Rifle 3
+弓矢１ = Bow 1
+弓矢２ = Bow 2
+弓矢３ = Bow 3
+
+
+// -------------------------------------------------------
+//  Animation - General Purpose
+// -------------------------------------------------------
+
+//Submenus
+立ち = Standing
+座り = Sitting
+アクション = Action
+ダンス = Dance
+アウトドア = Outdoor
+
+
+//Standing
+手招き = Beckoning
+ビラ配り = Distribution of Flyers
+ジェスチャー = Gesture
+悩む = Worried
+バレー１ = Volley 1
+バレー２ = Volley 2
+バレー３ = Volley 3
+バレー４ = Volley 4
+水遊び１ = Water Play 1
+水遊び２ = Water Play 2
+シャワー = Shower
+準備体操 = Gymnast Preparation
+こける = Rubbing
+ぷい = Wow
+恥ずかしがる = Shy
+箒で掃く = Sweep with a Broom
+
+
+//Sitting
+床座り１ = Floor Seating 1
+床座り２ = Floor Seating 2
+床座り３ = Floor Seating 3
+足を組む = Cross Legs
+伸び = Stretching
+手を当て笑う = Hand Laughing
+しゃがみ = Crouching
+飲む１ = Drinking 1
+飲む２ = Drinking 2
+
+
+//Sleeping
+仰向け = Lie on Back
+うつ伏せ = Lie on Front
+睡眠１ = Sleep 1
+睡眠２ = Sleep 2
+寝返り１ = Turning 1
+寝返り２ = Turning 2
+行き倒れ１ = Fallen 1
+行き倒れ２ = Fallen 2
+
+
+//Action
+歩き１ = Walk 1
+歩き２ = Walk 2
+歩き３ = Walk 3
+歩き４ = Walk 4
+歩き５ = Walk 5
+嬉しい = Happy
+落ち込む = Depressed
+怒る = Angry
+指差す = Pointing
+ペンライト = Penlight
+オタ芸 = Otako
+じゃんけん１ = Rock-paper 1
+じゃんけん２ = Rock-paper 2
+じゃんけん３ = Rock-paper 3
+じゃんけん４ = Rock-paper 4
+じゃんけん５ = Rock-paper 5
+喜び = Pleasure
+ピース = Peace
+ガッツ = Guts
+悔しい = Frustration
+脱ぐ上 = Take off
+脱ぐ下 = Take off
+
+
+//Dance
+キュート = Cute
+クール = Cool
+セクシー１ = Sexy 1
+セクシー２ = Sexy 2
+セクシー３ = Sexy 3
+ポール１ = Pole 1
+ポール２ = Pole 2
+ダンス１ = Dance 1
+ダンス２ = Dance 2
+ダンス３ = Dance 3
+ダンス４ = Dance 4
+ダンス５ = Dance 5
+ダンス６ = Dance 6
+ダンス７ = Dance 7
+ダンス８ = Dance 8
+ダンス追加１ = Add Dance 1
+ダンス追加２ = Add Dance 2
+ダンス追加３ = Add Dance 3
+ダンス追加４ = Add Dance 4
+ダンス追加５ = Add Dance 5
+
+
+//Outdoor
+ストレッチ１ = Stretch 1
+ストレッチ２ = Stretch 2
+ストレッチ３ = Stretch 3
+ストレッチ４ = Stretch 4
+動き回る１ = Move Around 1
+動き回る２ = Move Around 2
+動き回る３ = Move Around 3
+動き回る４ = Move Around 4
+動き回る５ = Move Around 5
+ダイブ１ = Dive 1
+ダイブ２ = Dive 2
+ダイブ３ = Dive 3
+ダイブ４ = Dive 4
+
+
+//Male Animations
+基本 = Basic
+立ち話し = Talking
+腕組 = Fold Arms
+野次馬 = Trainee
+皿を磨く = Dish Washing
+会釈 = Bow With Dish
+酔っ払い = Drunk
+あぐら１ = Sitting Cross-Legged 1
+あぐら２ = Sitting Cross-Legged 2
+しゃがみ１ = Squat Down 1
+しゃがみ２ = Squat Down 2
+睡眠３ = Sleep 3
+睡眠４ = Sleep 4
+一礼 = Bow
+遠くを見る = Looking Far Away
+否定 = Denial
+気合 = Fired Up
+ボクシング = Boxing
+釣り = Fishing
+
+
+// -------------------------------------------------------
+//  Animation - Character
+// -------------------------------------------------------
+
+
+//Submenus
+なぎさ = Nagisa
+相良美弥子 = Miyako Sagara
+泉崎香奈 = Izumizaki Kana
+霧生茜 = Mistress Akane
+氷室麗華 = Himuro Reika
+笠原なつめ = Nasugi Kasahara
+朧 = Dazzling
+矢吹遼子 = Ryoko Yabuki
+藤堂静香 = Shizuka Todo
+木梨柚帆 = Kurosan Yuzo
+鬼越真紀 = Maki Oniuchi
+的子 = Slave
+
+
+//Personality Actions
+通常 = Normal
+好意 = Favor
+好意2 = Favor 2
+淫乱 = Nympho
+淫乱2 = Nympho 2
+嫌悪 = Aversion
+嫌悪2 = Aversion 2
+隷属 = Slavery
+隷属2 = Slavery 2
+待機 = Wait
+待機１ = Wait 1
+待機２ = Wait 2
+アクション１ = Action 1
+アクション２ = Action 2
+会話 = Conversation
+会話１ = Conversation 1
+会話２ = Conversation 2
+イメージ = Image
+
+
+//-----------------------------------------------------
+//  Animations - H Caressing
+//-----------------------------------------------------
+
+
+クンニ = Cunnilingus
+キス = Kissing
+胸いじり = Breast Fondle
+立ちキス = Standing Kiss
+添い寝キス = Lying kiss
+股間いじり = Fingering
+無理矢理キス = Forced Kiss
+まんぐり股間舐め = Piledriver C
+Ｇスポット攻め = G-Spot Attack
+立ちクンニ = Standing C
+アナル舐め = Analingus
+顔面騎乗クンニ = Face Sitting C
+まんぐり股間指挿入 = Piledriver In
+立ちバイブ挿入 = Standing Vibe
+アナルバイブ挿入 = Anal Vibe
+拘束バイブ = Captive Vibe
+椅子クンニ = Chair Cunni
+キスオナニー = Kiss masturb
+
+
+//H - Submenu
+前待機 = Pre-wait
+弱ループ = Weak
+強ループ = Medium
+絶頂前ループ = Strong
+絶頂 = Climax
+事後 = After Sex
+脱力前待機 = Tired Waiting
+脱力弱ループ = Tired Weak
+脱力強ループ = Tired Medium
+脱力絶頂前ループ = Tired Strong
+脱力絶頂 = Tired Climax
+脱力事後 = Tired After Sex
+
+
+//-----------------------------------------------------
+//  Animations - H Service
+//-----------------------------------------------------
+
+
+フェラ = Fellatio
+亀頭いじり = Knob Polish
+乳首舐め手コキ = Nipple Lick Fe
+嫌がりフェラ = Forced Fellatio
+ディープスロート = Deepthroat
+両手コキ = Double Handjob
+ノーハンド先舐め = Lick Penis Tip
+パイズリ = Boobjob
+嫌がり手コキ = Handjob
+無理矢理手コキ = Forced Hjob
+椅子両手コキ = Sit Double Hjob
+立ちノーハンドフェラ = Stand Blowjob
+椅子ノーハンドフェラ = Sit No-Hand BJ
+パイズリ咥え = Suck Boobjob
+パイズリ舐め = Lick Boobjob
+椅子パイズリ = Sit Boobjob
+椅子パイズリ舐め = Sit Lick Bjob
+立ちパイズリ = Stand Boobjob
+立ちパイズリ舐め = Stand Lick BoJ
+ちんぐりアナル舐め = Piledriver Rim
+無理矢理フェラ = Forced Blowjob
+立ち足コキ = Stand Footjob
+片手コキ = Handjob
+椅子足コキ = Chair foot job
+拘束フェラ = Restraint Fellatio
+
+
+//-----------------------------------------------------
+//  Animations - H Insertion
+//-----------------------------------------------------
+
+
+正常位 = Missionary
+胸モミ正常位 = Missionary Grope 
+女主導騎乗素股 = Cowgirl Hump (F)
+嫌がり正常位 = Forced Missionary
+アナル椅子後背位 = Anal Doggy on Chair 
+側位 = Spooning
+キス座位 = Kissing Sitting
+中腰バック = Kneeling Behind 
+立ちバック = Standing Behind 
+後背位 = Doggy Style
+立位 = Standing
+胸モミ騎乗 = Cowgirl Grope 
+壁立ちバック = Against Wall Behind
+騎乗位 = Cowgirl
+背面騎乗 = Reverse Cowgirl
+女主導背面騎乗 = Reverse Cowgirl (F)
+女主導騎乗 = Cowgirl (F)
+突き上げ立ちバック = Upthrust Behind
+女主導手コキ素股 = Handjob Hump (F)
+素股 = Thighjob
+女主導椅子素股 = Sitting Hump (F)
+駅弁 = Lifting
+逆駅弁 = Reverse Lifting
+まんぐり挿入 = Piledriver
+椅子背面騎乗 = Sit Reverse Cowgirl
+トイレ強姦 = Toilet Rape
+シャワー強姦 = Shower Rape
+机後背位 = Doggy Style Desk
+屈脚位 = Bent Missionary
+チングリピストン = Reverse Piledriver
+吊るし挿入 = Hanging
+立ち拘束挿入 = Stockade
+床拘束正常位 = Floor Bondage Mi
+ブリッジピストン = Double Decker
+アナル正常位 = Anal Missionary
+アナル後背位 = Anal Doggystyle
+アナル壁立ち後背位 = Against Wall Anal
+卓上正常位 = Desk Missionary
+机側位 = Desk Side Position
+吊るし挿入２ = Hanging 2
+立ち拘束挿入２ = Stockade 2
+床拘束正常位２ = Floor Bondage Mi 2
+
+
+//-----------------------------------------------------
+//  Animations - H Special
+//-----------------------------------------------------
+
+
+スパンキング = Spanking
+ディルドオナニー = Dildo Masturb
+オナニー = Masturbation
+トイレオナニー = Toilet Masturb
+シャワーオナニー = Shower Masturb
+角オナニー = Corner Masturb
+カメラ撮影オナニー = Camera Shoot Mast
+三角木馬 = Triangular Horse
+トイレ覗き = Toilet Peeping
+シャワー覗き = Shower Peeping
+ムチ打ち = Whip
+三角木馬２ = Triangular Horse 2
+触手 = Tentacle
+
+
+//H - Submenu
+挿入 = Insert
+
+
+//-----------------------------------------------------
+//  Animations - H Multiple
+//-----------------------------------------------------
+
+
+// H Multiple - F
+男２愛撫 = Caress (2M)
+男２フェラ = Blowjob (2M)
+男２バック = Spit Roast (2M)
+男２騎乗位 = Cowgirl (2M)
+女２A愛撫 = Caress A (2G)
+女２B愛撫 = Caress B (2G)
+女２A手コキ = Handjob A (2G)
+女２B手コキ = Handjob B (2G)
+女２A素股 = Frottage A (2G)
+女２B素股 = Frottage B (2G)
+女２A騎乗位 = Cowgirl A (2G)
+女２B騎乗位 = Cowgirl B (2G)
+レズA愛撫 = Lesbian Caress A
+レズB愛撫 = Lesbian Caress B
+レズAクンニ = Lesbian Cunnilingus A
+レズBクンニ = Lesbian Cunnilingus B
+
+
+//H Multiple - M
+男２A愛撫 = Caress A (2M)
+男２B愛撫 = Caress B (2M)
+男２Aフェラ = Blowjob A (2M)
+男２Bフェラ = Blowjob B (2M)
+男２Aバック = Spit Roast A (2M)
+男２Bバック = Spit Roast B (2M)
+男２A騎乗位 = Cowgirl A (2M)
+男２B騎乗位 = Cowgirl B (2M)
+女２愛撫 = Caress (2G)
+女２手コキ = Handjob (2G)
+女２素股 = Frottage (2G)
+女２騎乗位 = Cowgirl (2G)
+
+
+//-----------------------------------------------------
+//  Animations - H Addition 1
+//-----------------------------------------------------
+
+
+//H Addition 1
+股間こすり = Riding Arm Standing
+男受けクンニ = Face Rubbing
+寝オナニー = Sleep Masturbation
+机上バック = Desk Back
+恥まんぐり = Shame Prying
+診察男受け = A Consultation
+ソープH１ = Soap H 1
+ソープH２ = Soap H 2
+プールH = Pool H
+対面座位 = Face to Face Sitting
+巨根H = Big Dick H
+
+
+//H -Submenu
+ループ = Loop
+事後待機 = Standby Afterwards
+クリックピストン = Quick Piston
+竿こすり = Rod Scrubbing
+先いじり = Tapping
+裏こすり = Rubbing Back
+玉いじり = Tama-ijiri
+
+
+//-----------------------------------------------------
+//  Animations - Battle
+//-----------------------------------------------------
+
+
+//Submenu
+バトル = Battle
+
+
+//Battle
+格闘A = Fists A
+格闘B = Fists B
+気弾 = Magic
+片手剣 = One-Handed Sword
+盾と剣 = Shield and Sword
+小太刀二刀 = Dual Kodachi
+拳銃 = Handgun
+二丁拳銃 = Dual Handgun
+投擲 = Kunai
+魔法杖 = Magic Wand
+魔法本 = Magic Book
+両手剣 = Two-Handed Sword
+棒・槍 = Bo / Spear
+槌・鎌 = Hammer / Scythe
+ライフル = Rifle
+弓矢 = Bow
+攻撃１ = Attack 1
+攻撃２ = Attack 2
+攻撃３ = Attack 3
+攻撃４ = Attack 4
+防御 = Defense
+倒れる = Knockback
+
+
+// -------------------------------------------------------
+//  Sound Menu
+// -------------------------------------------------------
+
+
+BGM = BGM
+環境音 = Environmental Sound
+外部読込 = External read
+
+
+//BGM
+ハニーセレクト = Honey Select
+日常 = Everyday
+しっぽり = Tender
+キャラメイク = Char Maker
+出会い = Encounter
+疲れる = Tiring
+別れ = Farewell
+休憩 = Break
+好奇心 = Curiosity
+出来心 = Sudden Impulse
+待ち合わせ = Rendezvous
+不機嫌 = Bad Mood
+Sexyビーチ = Sexy Beach
+島のラジオ = Island Radio
+ショップシーン = Shop Scene
+朝の町並み = Morning Street
+昼の町並み = Day Street
+夕方の町並み = Evening Street
+夜の町並み = Night Street
+悲しい = It's Sad
+安らぎ = Comfort
+事件 = Incident
+脅威 = Threat
+ラッシュ = Rush
+ダンスショー = Dance Show
+ギャグ = Gag
+エステ = Beauty
+悪い遊び = Bad Play
+秘かに = Secretly
+プレミアム = Premium
+シリアス = Serious
+メインテーマ = Main Theme
+テクニカルエディット = Technical Edit
+バトル・激突 = Battle · Clash
+バトル・覚醒 = Battle · Begin
+バトル・脅威 = Battle · Threat
+おくりもの = Gift
+歪な欲望 = Distorted Desire
+
+
+//-----------------------------------------------------
+//  Voice Menu
+//-----------------------------------------------------
+
+
+//Voice
+誠実 = Sincere
+妖艶 = Bewitching
+
+
+//-----------------------------------------------------
+//  System Menu
+//-----------------------------------------------------
+
+//Submenu
+コンフィグ = Configuration
+オプション = Option
+カメラライト = Camera light
+画面効果 = Screen Effect 
+セーブ = Save
+ロード = Load
+初期化 = Reset
+終了 = End
+Load(old) = Load(old)
+
+
+//-----------------------------------------------------
+//  Configuration
+//-----------------------------------------------------
+
+
+背景色 = Background Color
+マップ遮蔽処理 = Map Shielding Process
+オーディオ設定 = Audio Setting
+マスター音量 = Master Volume
+ＢＧＭ = BGM
+効果音 = Sound effect
+システム音 = System Sound
+音声 = Voice Volume
+
+
+//-----------------------------------------------------
+//  Option
+//-----------------------------------------------------
+
+
+カメラ設定 = Camera Setting
+カメラ速度X軸 = Camera speed X axis
+カメラ速度Y軸 = Camera Speed Y Axis
+カメラ移動速度 = Camera movement speed
+操作軸の設定 = Setting of operation axis
+大きさ = Size
+速度(移動量) = Speed (amount of movement)
+オブジェクトの追加位置 = Additional position of object
+原点 = Origin
+注視点 = Gazing point
+オブジェクトの表示タイプ = Display type of object
+全表示 = All Display
+選択表示 = Selection Display
+オブジェクト追加時の自動表示 = Automatic display when adding objects
+する = Yes
+しない = Cancel
+オブジェクト追加時の自動選択 = Automatic selection when adding objects
+スナップ移動幅 = Snap Movement Width
+
+
+//-----------------------------------------------------
+//  Camera Light
+//-----------------------------------------------------
+
+
+カラー = Color
+セルフシャドウ = Self Shadow
+強さ = Strength
+ライト縦 = Light length
+ライト横 = Light Width
+
+
+//-----------------------------------------------------
+//  Screen Effect
+//-----------------------------------------------------
+
+
+描画 = Draw
+範囲 = Range
+ブラー = Blur
+
+
+//-----------------------------------------------------
+//  Colour Menu
+//-----------------------------------------------------
+
+
+見本 = Sample
+ピッカー = Picker
+H = H
+S = S
+V = V
+R = R
+G = G
+B = B
+A = A
+スライダー = Slider
+HSV = 
+RGB = 
+色合い = Tint
+鮮やかさ = Vividness
+明るさ =  Brightness
+透明度 = Transparency
+プリセット = Preset
+サンプル = Sample
+カスタム = Custom
+
+
+//-----------------------------------------------------
+//  Workspace Window
+//-----------------------------------------------------
+
+
+ワークスペース = Workspace
+フォルダー = Folder
+
+グループ : 頭 = Group: Head
+グループ : 体 = Group: Body
+グループ : 左腕 = Group: Left Arm
+グループ : 右腕 = Group: Right Arm
+グループ : 左足 = Group: Left foot
+グループ : 右足 = Group: Right foot
+部位 : 頭 = Site: Head
+部位 : 眼鏡 = Site: Glasses
+部位 : 鼻 = Site: Nose
+部位 : 口 = Site: Mouth
+部位 : 左耳 = Site: Left Ear
+部位 : 右耳 = Site: Right Ear
+部位 : 首 = Site: Neck
+部位 : 胸 = Site: Chest
+部位 : 腰 = Site: Waist
+部位 : 左乳首 = Site: Left Nipple
+部位 : 右乳首 = Site: Right Nipple
+部位 : 左肩 = Site: Left Shoulder
+部位 : 左腕 = Site: Left Arm
+部位 : 左手首 = Site: Left Wrist
+部位 : 左手 = Site: Left Hande
+部位 : 左人差指 = Site: Left Index Finger
+部位 : 左中指 = Site: Left Middle Finder
+部位 : 左薬指 = Site: Left Ring Finger
+部位 : 右肩 = Site: Right Shoulder
+部位 : 右腕 = Site: Right Arm
+部位 : 右手首 = Site: Right Wrist
+部位 : 右手 = Site: Right Hande
+部位 : 右人差指 = Site: Right Index Finger
+部位 : 右中指 = Site: Right Middle Finger
+部位 : 右薬指 = Site: Right Ring Finger
+部位 : 左足 = Site: Left Foot
+部位 : 左足首 = Site: Left Ankle
+部位 : 右足 = Site: Right Foot
+部位 : 右足首 = Site: Right Ankle
+
+
+//-----------------------------------------------------
+//  Map Editor
+//-----------------------------------------------------
+
+
+//Map Editor
+位置 = Position
+回転 = Rotate
+Ｙ回転 = Y Rotation
+X = X
+Y = Y
+Z = Z
+Ｚ回転 = Z Rotation
+平行移動 = Parallel Move
+Ｘ回転 = X Rotation
+上下移動 = Vertical Move
+
+
+//-----------------------------------------------------
+//  MODS
+//-----------------------------------------------------
+
+
+アイテム検索 = Item Search
+
+
+//-----------------------------------------------------
+//  ??????????????
+//-----------------------------------------------------
+
+
+トイレH = Toilet H
+トイレ嫌がり挿入H = Toilet Forced H
+シャワーH = Shower H
+脱力絶頂事後 = After Weakness Caught
+立ちのノーハンドフェラ = Stand No-Hand BJ
+数値を入力 = Enter numeric value

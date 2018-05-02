@@ -1,0 +1,8 @@
+﻿ルーム１が設定されています = Room 1 is set
+B = B
+H = H
+S = D
+R = R
+G = G
+V = V
+A = A

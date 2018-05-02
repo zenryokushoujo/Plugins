@@ -1,0 +1,8 @@
+﻿タイトル = Title
+利用規約 = Terms of Service
+名前 = Name
+キャラリスト = Characterist
+旧ダウンロード = Old Download
+日付 = Date
+ダウンロード = Download 
+アップロードする = Upload

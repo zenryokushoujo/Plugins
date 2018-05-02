@@ -1,0 +1,13 @@
+﻿メインメニュー = Main Menu 
+利用規約 = Terms of Service
+アップロードするバトルカードにロックをかける = Lock the battle card you upload
+名前 = Name
+※ ロックのかかったユニット・部隊をダウンロードした場合は\n　 敵として倒さない限り味方にすることができなくなります。 = ※ If you download a locked unit/troop, you will not be able to become ally unless you defeat it as an enemy.
+バトルカードリスト = Battle card list
+日付 = Date
+ダウンロード = Download 
+アップロードする = Upload
+マリオン = Marion
+御武　弥生 = Miyake Yayoi
+データを取得しています = Data is loading
+ネットワークの接続に失敗しました = Network connection failed
